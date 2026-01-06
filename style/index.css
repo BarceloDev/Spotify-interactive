@@ -148,9 +148,8 @@ CAROUSEL
   animation: slide 8s ease-in-out infinite;
 }
 
-.carousel img{
+.carousel-imgs{
   width: 100%;
-  height: 551px;
 }
 
 @keyframes slide {
