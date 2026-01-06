@@ -148,7 +148,7 @@ CAROUSEL
   animation: slide 8s ease-in-out infinite;
 }
 
-.carousel-imgs{
+.carousel img{
   width: 100%;
 }
 
